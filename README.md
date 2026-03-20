@@ -1,10 +1,10 @@
 # Syllabot - A Chatbot Focused on Syllabus-Based Questions
 
-## 📌 Overview
+##  Overview
 
 Syllabot is an **AI-powered academic chatbot** that allows users to upload **PDF and DOCX files** and ask questions. The chatbot uses **Milvus** as a vector database to store and retrieve document embeddings efficiently. It also integrates with **Hugging Face** for generating responses based on stored knowledge.
 
-## 🚀 Features
+##  Features
 
 - **Document Processing**: Extracts text from PDF/DOCX files.
 - **Vector Storage**: Stores document embeddings in **Milvus** for efficient retrieval.
@@ -12,7 +12,7 @@ Syllabot is an **AI-powered academic chatbot** that allows users to upload **PDF
 - **LLM Integration**: Queries **Hugging Face Hub** for generating responses.
 - **User-Friendly Interface**: Built with **Streamlit** for easy interaction.
 
-## 🛠️ Installation
+##  Installation
 
 ### 1️⃣ Clone the Repository
 
