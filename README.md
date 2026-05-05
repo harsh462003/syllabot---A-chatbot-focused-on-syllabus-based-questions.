@@ -103,11 +103,4 @@ Based on the detailed analysis in the provided documentation, here are the key f
   - Use **multi-turn conversation support** to retain context across queries.
   - Experiment with **fine-tuned AI models** for domain-specific accuracy.
 
-## 🤝 Contributing
-
-Feel free to contribute! Open an issue or submit a pull request if you have improvements.
-
-
-
-🔥 **Enjoy using Syllabot, your AI-powered academic assistant!**
 
